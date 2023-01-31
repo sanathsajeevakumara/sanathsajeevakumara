@@ -1,6 +1,7 @@
-[![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/16320_Android_12_Blog_Header_opt_31x.gif)](https://www.linkedin.com/in/sanathrm/)
+<!-- [![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/16320_Android_12_Blog_Header_opt_31x.gif)](https://www.linkedin.com/in/sanathrm/) -->
 <h1 align="center">Hi 👋, I'm Sanath</h1>
 <h3 align="center">A native Android and Flutter developer</h3>
+<!-- <img align="right" alt="Android Application Development" width="400" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanathsajeevakumara&label=Profile%20views&color=0e75b6&style=flat" alt="sanathsajeevakumara" /> </p>
 
@@ -14,7 +15,7 @@
 
 - 📫 How to reach me **sanathsajeevakumara@gmail.com**
 
-- 📄 Know about my experiences [Check out my resume](https://drive.google.com/file/d/1Hs5Shpe7N3UULzSCmWl_jWXcDj9b8nyJ/view?usp=share_link)
+- 📄 Know about my experiences [Check out my resume](https://drive.google.com/file/d/16fe-k_2zFwVNDg1ZlWJ3uy6kjTDZG-zD/view?usp=share_link)
 
 - ⚡ Fun fact **I like to play COD Mobile || Stem97**
 
