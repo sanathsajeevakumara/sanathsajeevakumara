@@ -1,7 +1,6 @@
 [![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/16320_Android_12_Blog_Header_opt_31x.gif)](https://www.linkedin.com/in/sanathrm/)
 <h1 align="center">Hi 👋, I'm Sanath</h1>
-<h3 align="center">A native Android application developer and Flutter application developer</h3>
-<img align="right" alt="Android Application Development" width="300" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif"/>
+<h3 align="center">A native Android and Flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanathsajeevakumara&label=Profile%20views&color=0e75b6&style=flat" alt="sanathsajeevakumara" /> </p>
 
