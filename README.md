@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/16320_Android_12_Blog_Header_opt_31x.gif)](https://www.linkedin.com/in/sanathrm/) -->
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv3CjuEunEpPuvrsKEV0f7R_OSPonuZnDUi97Hrz68T9xKpsUHRoFaivipPxNQ6QT3BIHVxtSH85xurEqxSnC1S7rQklKL8vKj40E2xgFWE9ylhjZDHbWoie3Evgl_WjnG2nQ1UxFVs9lg3IAMIv_CHCsuesUuCW_BMddUXU4JErFXLn9Twcy2tKKfHA/s1600/Android-JetpackCompose1.2-Header.png)](https://www.linkedin.com/in/sanathrm/)
 <h1 align="center">Hi 👋, I'm Sanath</h1>
 <h3 align="center">A native Android and Flutter developer</h3>
 <!-- <img align="right" alt="Android Application Development" width="400" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif"/> -->
