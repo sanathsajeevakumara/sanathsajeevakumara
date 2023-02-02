@@ -3,7 +3,7 @@
 <h3 align="center">A native Android and Flutter developer</h3>
 <!-- <img align="right" alt="Android Application Development" width="400" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif"/> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanathsajeevakumara&label=Profile%20views&color=0e75b6&style=flat" alt="sanathsajeevakumara" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanathsajeevakumara&label=Profile%20views&color=0e75b6&style=flat" alt="sanathsajeevakumara" /> </p> -->
 
 - 🔭 I’m currently working on [ZorroSign](https://www.zorrosign.com)
 
