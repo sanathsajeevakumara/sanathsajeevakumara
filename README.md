@@ -1,7 +1,7 @@
 [![MasterHead](https://techcrunch.com/wp-content/uploads/2020/06/new_logos_v3-1.gif)](https://www.linkedin.com/in/sanathrm/)
 <h1 align="center">Hi 👋, I'm Sanath</h1>
 <h3 align="center">A native Android and Flutter developer</h3>
-<img align="right" alt="Android Application Development" width="400" src="https://www.inventateq.com/assets/python/small.gif"/>
+<img align="right" alt="Android Application Development" width="350" src="https://www.inventateq.com/assets/python/small.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanathsajeevakumara&label=Profile%20views&color=0e75b6&style=flat" alt="sanathsajeevakumara" /> </p>
 
