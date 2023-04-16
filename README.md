@@ -1,7 +1,7 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv3CjuEunEpPuvrsKEV0f7R_OSPonuZnDUi97Hrz68T9xKpsUHRoFaivipPxNQ6QT3BIHVxtSH85xurEqxSnC1S7rQklKL8vKj40E2xgFWE9ylhjZDHbWoie3Evgl_WjnG2nQ1UxFVs9lg3IAMIv_CHCsuesUuCW_BMddUXU4JErFXLn9Twcy2tKKfHA/s1600/Android-JetpackCompose1.2-Header.png)](https://www.linkedin.com/in/sanathrm/)
+[![MasterHead](https://techcrunch.com/wp-content/uploads/2020/06/new_logos_v3-1.gif)](https://www.linkedin.com/in/sanathrm/)
 <h1 align="center">Hi 👋, I'm Sanath</h1>
 <h3 align="center">A native Android and Flutter developer</h3>
-<img align="right" alt="Android Application Development" width="400" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif"/>
+<img align="right" alt="Android Application Development" width="400" src="https://www.inventateq.com/assets/python/small.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanathsajeevakumara&label=Profile%20views&color=0e75b6&style=flat" alt="sanathsajeevakumara" /> </p>
 
