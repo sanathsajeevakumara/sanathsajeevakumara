@@ -74,4 +74,4 @@
 
 <!--- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanathsajeevakumara&" alt="sanathsajeevakumara" /></p> --->
 
-![Snake animation](https://github.com/sanathsajeevakumara/sanathsajeevakumara/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/sanathsajeevakumara/sanathsajeevakumara/blob/main/github-contribution-snake.svg)
