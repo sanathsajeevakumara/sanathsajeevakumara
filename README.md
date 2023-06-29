@@ -30,8 +30,8 @@
 </h3>
 <p align="left">
   <a href="https://linkedin.com/in/sanathrm" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readmegenerator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="sanathrm" height="30" width="40" />
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-512.png"
+      alt="sanathrm" height="30" width="30" />
   </a>
   <a href="https://medium.com/@sanathsajeevakumara" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
