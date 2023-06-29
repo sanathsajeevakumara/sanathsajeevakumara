@@ -1,9 +1,15 @@
 [![MasterHead](https://techcrunch.com/wp-content/uploads/2020/06/new_logos_v3-1.gif)](https://www.linkedin.com/in/sanathrm/)
-<h1 align="center">Hi 👋, I'm Sanath</h1>
-<h3 align="center">A native Android and Flutter developer</h3>
+<h1 align="center">
+  Hi 👋, I'm Sanath
+</h1>
+<h3 align="center">
+  A native Android and Flutter developer
+</h3>
 <img align="right" alt="Android Application Development" width="350" src="https://www.inventateq.com/assets/python/small.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanathsajeevakumara&label=Profile%20views&color=0e75b6&style=flat" alt="sanathsajeevakumara" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sanathsajeevakumara&label=Profile%20views&color=0e75b6&style=flat" alt="sanathsajeevakumara"/>
+</p>
 
 - 🔭 I’m currently working at [ZorroSign, inc](https://www.zorrosign.com)
 
@@ -15,14 +21,22 @@
 
 - 📫 How to reach me **sanathsajeevakumara@gmail.com**
 
-- 📄 Know about my experiences [Check out my resume](https://drive.google.com/file/d/19h1GUe1i2Vei3WN65nLDXUEBgYffJMZB/view?usp=sharing)
+- 📄 Know about my experiences [Check out my resume](https://drive.google.com/file/d/1m7CpmYaLvEhtdGjgaZfkhJM5ulyE4dU7/view?usp=sharing)
 
 - ⚡ Fun fact **I like to play COD Mobile || Stem97**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+  Connect with me:
+</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanathrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanathrm" height="30" width="40" /></a>
-<a href="https://medium.com/@sanathsajeevakumara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanathsajeevakumara" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sanathrm" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readmegenerator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="sanathrm" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@sanathsajeevakumara" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+      alt="@sanathsajeevakumara" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
