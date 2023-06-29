@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sanathsajeevakumara@gmail.com**
 
-- 📄 Know about my experiences [Check out my resume](https://drive.google.com/file/d/16fe-k_2zFwVNDg1ZlWJ3uy6kjTDZG-zD/view?usp=share_link)
+- 📄 Know about my experiences [Check out my resume](https://drive.google.com/file/d/19h1GUe1i2Vei3WN65nLDXUEBgYffJMZB/view?usp=sharing)
 
 - ⚡ Fun fact **I like to play COD Mobile || Stem97**
 
