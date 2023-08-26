@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=sanathsajeevakumara&label=Profile%20views&color=0e75b6&style=flat" alt="sanathsajeevakumara"/>
 </p>
 
-- 🔭 I’m currently working at [ZorroSign, inc](https://www.zorrosign.com)
+- 🔭 I’m currently working at [PickMe](https://pickme.lk/)
 
 - 🌱 I’m currently learning **Android - Kotlin | Android - Flutter**
 
